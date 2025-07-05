@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vafagh
+- 👋 Hi, I’m Vafa
 - 👀 I’m interested in web base application and automation
-- 🌱 I’m currently learning python and VueJS
-- 💞️ I’m looking to collaborate on automation DIY projects
+- 🌱 Currently learning like always 
+- 💞️ Looking to collaborate on automation DIY projects
 - 📫 Reach me at vafagh at gmail
 
 <!---
